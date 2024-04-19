@@ -49,7 +49,7 @@ app.layout = html.Div([
     
     html.Div([
         html.H1('Prueba de parametros - SIMULADOR/CHARLES', style={'fontSize': 30,'font-family':'sans-serif', 'color':'red'}),
-        html.Img(src='assets/HERDEZ.png')
+        html.Img(src='assets/ENIGMA.png')
     ],style = {}, className = 'banner'),
 
     html.Div([
