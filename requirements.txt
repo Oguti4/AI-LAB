@@ -1,8 +1,9 @@
-pandas 
-dash
+numpy
+pandas==1.5.3
+dash==2.10.2
+dash_bootstrap_components
 plotly.express
 matplotlib
 plotly
 datetime
 gunicorn
-dash_auth
